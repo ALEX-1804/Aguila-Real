@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(175, 220, 238);
+    margin-top: auto;
+    margin-left: 15%;
+    margin-right: 15%;
+      }
+   
+h1{
+    font-family: Copperplate Gothic Bold;
+    text-align: center;
+    font-size: 250%;
+}
+
+p{
+    font-family: Arial Rounded MT Bold;
+    text-align: justify;
+    font-size: 150%;
+    color: black;
+}
+    
+img{
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 60%;
+    top: 60%;
+}
+h2{
+    font-family: Copperplate Gothic Bold;
+    text-align: center;
+    font-size: 150%;
+}
+h3{
+    background: #e25b9a;
+    font-family: Copperplate Gothic Bold;
+    text-align: center;
+    font-size: 250%;
+}
